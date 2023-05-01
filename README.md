@@ -3,6 +3,9 @@
 Byung Chun Kim (wizardbc@gmail.com)
 
 
-## Python for Mathematicians (2023. 05. 01. Mon ~)
+## Python for Mathematicians
 
-* Basic Linux
+* Basic Linux (2023. 05. 01. Mon)
+* Basic Python (2023. 05. 08. Mon)
+  * Syntax and Data types
+  * Linear regression
