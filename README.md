@@ -3,6 +3,6 @@
 Byung Chun Kim (wizardbc@gmail.com)
 
 
-## Python for Mathematicians (2023. 05. 01. Mon)
+## Python for Mathematicians (2023. 05. 01. Mon ~)
 
 * Basic Linux
