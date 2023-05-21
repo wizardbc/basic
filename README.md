@@ -9,3 +9,6 @@ Byung Chun Kim (wizardbc@gmail.com)
 * Basic Python (2023. 05. 08. Mon)
   * Syntax and Data types
   * Linear regression
+* Basic NumPy and Artificial Neural Network (2023. 05. 22. Mon)
+  * NumPy Library
+  * Universal Approximation Theorem
